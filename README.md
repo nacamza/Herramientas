@@ -6,7 +6,7 @@ Programar tareas python
 ### [Outline](https://github.com/outline/outline)
 Es paracido a notion, open source, mas orientado a wiki
 
-### [Code-server](https://hub.docker.com/r/codercom/code-server)
+### [Code-server](https://hub.docker.com/r/linuxserver/code-server)
 Visual Studio en server (app web)
 
 ### [Freqtrade](https://github.com/freqtrade/freqtrade)
